@@ -1,5 +1,7 @@
 # CNN
-A demo with basic CNN for image recognition 
+A demo on basic CNN for image recognition.
 
-### Data Source
-Kaggle: [ASL Alphabet](https://www.kaggle.com/grassknoted/asl-alphabet)
+## Data Source
+Kaggle:  
+1.  [ASL Alphabet](https://www.kaggle.com/grassknoted/asl-alphabet)
+1.  [MNIST Digit Recognizer](https://www.kaggle.com/scolianni/mnistasjpg)
